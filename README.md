@@ -1,134 +1,97 @@
-<h1 align="center">Hi there, I'm Himanshi Garg 👋</h1>
-
-<h3 align="center">
-B.Tech Computer Science Engineering (AI/ML) Student | Machine Learning Enthusiast | Problem Solver
-</h3>
+<h1 align="center">Hi, I'm Himanshi Garg 👋</h1>
 
 <p align="center">
-I enjoy building intelligent software that solves practical problems using Machine Learning, Data Analysis, and Algorithms.
+  <b>B.Tech Computer Science Engineering (AI/ML)</b><br>
+  Machine Learning • Software Engineering • Data Science • Problem Solving
+</p>
+
+<p align="center">
+Building intelligent systems and optimization-focused software through machine learning, algorithms, and practical engineering.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+I'm a second-year B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-My primary interests lie in developing intelligent systems that improve decision-making through data. I enjoy working on projects involving machine learning, optimization algorithms, and software engineering principles.
+I enjoy solving real-world problems using machine learning, optimization algorithms, and software engineering principles. My projects focus on building complete solutions—from data preprocessing and predictive modeling to algorithm design and intelligent system development.
 
-Currently, I'm focused on strengthening my foundations in:
-
-- Machine Learning
-- Data Structures & Algorithms
-- Python Development
-- Data Analysis
-- Software Engineering
-- System Design
-
-I believe in learning by building, so most of my time goes into creating projects that solve real-world problems rather than simply following tutorials.
+Currently, I'm strengthening my foundations in Machine Learning, Data Structures & Algorithms, and System Design while continuously building projects that bridge academic concepts with practical applications.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-### ⚡ Energy Optimization AI
-
-Building an end-to-end Machine Learning system that predicts and optimizes energy consumption using real-world datasets.
-
-Key areas include:
-
-- Data preprocessing
-- Feature engineering
-- Predictive modeling
-- Performance evaluation
-- Optimization techniques
+- 🔋 Building an **Energy Optimization AI** system using real-world datasets
+- 🤖 Developing an **AI-powered Faculty Leave & Proxy Management System**
+- ⚙️ Strengthening Data Structures & Algorithms in C++
+- 📊 Exploring applied Machine Learning and Data Analysis
+- 🌱 Learning scalable software design and development
 
 ---
 
-## 💼 Featured Projects
+## ⭐ Featured Projects
 
-### ⚡ Energy Optimization AI
-Machine Learning system that predicts energy demand and recommends efficient energy allocation using historical grid and renewable energy data.
+- 🔋 **[Energy Optimization AI](https://github.com/himanshigarg06/energy-optimization-ai)** *(In Progress)*  
+  Machine learning system that predicts energy demand and recommends optimized energy allocation using real-world electricity and renewable energy datasets.
 
-**Skills**
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Machine Learning
-- Data Visualization
+- 🖥️ **[Adaptive Resource Allocation](https://github.com/himanshigarg06/adaptive-resource-allocation)**  
+  Operating system simulation implementing Dynamic Round Robin Scheduling, Working Set Model, and Page Fault Frequency algorithms.
 
----
+- 💰 **[Event Budget Planner](https://github.com/himanshigarg06/event-budget-planner--knapsack--)** *(In Progress)*<br>
+               Modular C++ application implementing Greedy and 0/1 Knapsack algorithms for intelligent event budget optimization.
 
-### 📊 Restaurant Machine Learning Analysis
+- 🍽️ **[Restaurant ML Analysis](https://github.com/himanshigarg06/restaurant-ml-analysis)**  
+  End-to-end data science project involving rating prediction, cuisine classification, exploratory data analysis, and business insights.
 
-Analyzed restaurant datasets to discover customer trends, predict ratings, classify cuisines, and generate business insights through feature engineering and predictive models.
+- 📉 **[Customer Churn Prediction](https://github.com/himanshigarg06/customer-churn-prediction)**  
+  Machine learning pipeline for customer retention prediction using preprocessing, feature engineering, and classification models.
 
----
-
-### 📉 Customer Churn Prediction
-
-Developed a classification model capable of predicting customer churn using supervised machine learning techniques and complete data preprocessing pipelines.
+- 🎮 **[DFS Maze Solver](https://github.com/himanshigarg06/dfs-maze-game-using-python)**  
+  Python implementation of the Depth First Search algorithm with modular design and maze traversal visualization.
 
 ---
 
-### 🧠 Adaptive Resource Allocation
+## 📂 What You'll Find Here
 
-Implemented an optimization-based system in C++ to efficiently allocate limited resources using algorithmic problem-solving techniques.
-
----
-
-### 🎮 DFS Maze Solver
-
-Implemented the Depth First Search algorithm to solve randomly generated mazes while visualizing traversal and path discovery.
-
----
-
-### 🌐 Faculty Leave Management System
-
-A web-based project designed to streamline leave requests and faculty management workflows.
+- 🤖 Machine Learning Projects
+- 📊 Data Science & Analytics
+- 💻 C++ Algorithm Implementations
+- 🧠 Operating Systems Simulations
+- 🌐 Web Development Projects
+- ⚡ Optimization & Intelligent Systems
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Technical Skills
 
-### Languages
+**Languages**
 
-- Python
-- C++
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript (Learning)
+Python • C++ • Java • SQL • HTML • CSS
 
-### Machine Learning
+**Machine Learning**
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
+Pandas • NumPy • Scikit-learn • Matplotlib
 
-### Tools
+**Core Concepts**
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+Machine Learning • Data Structures & Algorithms • Operating Systems • Database Management Systems • Object-Oriented Programming
+
+**Tools**
+
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced Machine Learning
-- Deep Learning
+- Deep Learning Fundamentals
 - Model Optimization
 - Data Pipelines
 - System Design
-- DSA in C++
+- Full-Stack Development
 
 ---
 
@@ -136,40 +99,24 @@ A web-based project designed to streamline leave requests and faculty management
 
 - Build production-ready AI applications
 - Master Data Structures & Algorithms
+- Deploy machine learning models
 - Contribute to Open Source
-- Secure an AI/ML internship
-- Publish impactful GitHub projects
+- Secure an AI/ML Software Engineering Internship
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Connect With Me
+
+📧 **Email**  
+**himanshigarg10377@gmail.com**
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/himanshi10377
+
+🌐 **Portfolio** *(Coming Soon)*
+
+---
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshigarg06&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshigarg06&layout=compact&theme=github_dark"/>
-
+<i>Learning by building • Improving with every project</i>
 </p>
-
----
-
-## 🌱 Beyond Coding
-
-Outside of programming, I'm interested in:
-
-- Artificial Intelligence research
-- Optimization problems
-- Reading about emerging technologies
-- Building practical software
-- Continuous learning
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: himanshigarg10377@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/himanshi10377
-
-⭐ If you find my work interesting, feel free to explore my repositories and connect!
