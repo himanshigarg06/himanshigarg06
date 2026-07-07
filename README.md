@@ -1,110 +1,175 @@
-# Hi, I'm Himanshi 👩‍💻
+<h1 align="center">Hi there, I'm Himanshi Garg 👋</h1>
 
-🎓 B.Tech CSE (AI/ML Specialization)
-🤖 Machine Learning | Data Science | Intelligent Systems
-⚡ Building real-world AI solutions
+<h3 align="center">
+B.Tech Computer Science Engineering (AI/ML) Student | Machine Learning Enthusiast | Problem Solver
+</h3>
 
----
-
-## 🚀 About Me
-
-* Second-year AI/ML student passionate about solving real-world problems
-* Focused on **Machine Learning, Data Analysis, and System Optimization**
-* Currently building an **Energy Optimization AI system** using real datasets
-* Strong foundation in ML concepts + hands-on implementation
+<p align="center">
+I enjoy building intelligent software that solves practical problems using Machine Learning, Data Analysis, and Algorithms.
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 👩‍💻 About Me
 
-### 💻 Languages
+I'm a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge\&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge\&logo=java)
-![HTML](https://img.shields.io/badge/HTML-Web-red?style=for-the-badge\&logo=html5)
+My primary interests lie in developing intelligent systems that improve decision-making through data. I enjoy working on projects involving machine learning, optimization algorithms, and software engineering principles.
 
----
+Currently, I'm focused on strengthening my foundations in:
 
-### 📊 ML & Data
+- Machine Learning
+- Data Structures & Algorithms
+- Python Development
+- Data Analysis
+- Software Engineering
+- System Design
 
-![Pandas](https://img.shields.io/badge/Pandas-Data-black?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Array-blue?style=for-the-badge\&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge\&logo=scikit-learn)
-
----
-
-## 🔥 Featured Projects
-
-### ⚡ [Energy Optimization AI](https://github.com/himanshigarg06/energy-optimization-ai)
-
-* ML-based system to optimize energy usage
-* Uses real-world datasets (grid + solar)
-* Focus on prediction, efficiency & smart allocation
+I believe in learning by building, so most of my time goes into creating projects that solve real-world problems rather than simply following tutorials.
 
 ---
 
-### 📊 [Restaurant ML Analysis](https://github.com/himanshigarg06/restaurant-ml-analysis)
+## 🚀 What I'm Working On
 
-* Rating prediction, cuisine classification, location insights
-* Applied feature engineering + ML models
+### ⚡ Energy Optimization AI
 
----
+Building an end-to-end Machine Learning system that predicts and optimizes energy consumption using real-world datasets.
 
-### 📉 [Customer Churn Prediction](https://github.com/himanshigarg06/customer-churn-prediction)
+Key areas include:
 
-* Classification model to predict customer behavior
-* End-to-end ML workflow
-
----
-
-### 🧠 [Adaptive Resource Allocation](https://github.com/himanshigarg06/adaptive-resource-allocation)
-
-* Algorithm-based optimization system (C++)
+- Data preprocessing
+- Feature engineering
+- Predictive modeling
+- Performance evaluation
+- Optimization techniques
 
 ---
 
-### 🎮 [DFS Maze Game](https://github.com/himanshigarg06/dfs-maze-game-using-python)
+## 💼 Featured Projects
 
-* Implemented DFS algorithm for maze solving
+### ⚡ Energy Optimization AI
+Machine Learning system that predicts energy demand and recommends efficient energy allocation using historical grid and renewable energy data.
 
----
-
-### 🌐 [Faculty Leave Management System](https://github.com/himanshigarg06/Faculty-Leave-Management-System)
-
-* Basic web-based system using HTML
-
----
-
-## 📊 GitHub Stats
-
-![Himanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshigarg06\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshigarg06\&layout=compact\&theme=tokyonight)
+**Skills**
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Machine Learning
+- Data Visualization
 
 ---
 
-## 📈 Currently Learning
+### 📊 Restaurant Machine Learning Analysis
 
-* Advanced Machine Learning
-* Model optimization & evaluation
-* Real-world dataset handling
-* End-to-end AI system design
+Analyzed restaurant datasets to discover customer trends, predict ratings, classify cuisines, and generate business insights through feature engineering and predictive models.
 
 ---
 
-## 🎯 Goals
+### 📉 Customer Churn Prediction
 
-* Build impactful AI systems
-* Become internship-ready in AI/ML
-* Work on real-world optimization problems
+Developed a classification model capable of predicting customer churn using supervised machine learning techniques and complete data preprocessing pipelines.
 
 ---
 
-## 📫 Connect With Me
+### 🧠 Adaptive Resource Allocation
 
-🔗 GitHub: https://github.com/himanshigarg06
+Implemented an optimization-based system in C++ to efficiently allocate limited resources using algorithmic problem-solving techniques.
 
 ---
 
-⭐ *From learning → to building → to mastering*
+### 🎮 DFS Maze Solver
+
+Implemented the Depth First Search algorithm to solve randomly generated mazes while visualizing traversal and path discovery.
+
+---
+
+### 🌐 Faculty Leave Management System
+
+A web-based project designed to streamline leave requests and faculty management workflows.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- C++
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript (Learning)
+
+### Machine Learning
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Model Optimization
+- Data Pipelines
+- System Design
+- DSA in C++
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready AI applications
+- Master Data Structures & Algorithms
+- Contribute to Open Source
+- Secure an AI/ML internship
+- Publish impactful GitHub projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshigarg06&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshigarg06&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+## 🌱 Beyond Coding
+
+Outside of programming, I'm interested in:
+
+- Artificial Intelligence research
+- Optimization problems
+- Reading about emerging technologies
+- Building practical software
+- Continuous learning
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: himanshigarg10377@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/himanshi10377
+
+⭐ If you find my work interesting, feel free to explore my repositories and connect!
