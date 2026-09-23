@@ -13,7 +13,7 @@ Building intelligent systems and optimization-focused software through machine l
 
 ## 👩‍💻 About Me
 
-I'm a second-year B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+I'm a third-year B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
 I enjoy solving real-world problems using machine learning, optimization algorithms, and software engineering principles. My projects focus on building complete solutions—from data preprocessing and predictive modeling to algorithm design and intelligent system development.
 
